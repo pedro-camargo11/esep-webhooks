@@ -1,0 +1,17 @@
+/Users/pedrocamargo/Desktop/Fall23/CIS4930-EnterpriseSWE/dotnetLambda/EsepWebhook/src/EsepWebhook/bin/Release/net6.0/linux-x64/EsepWebhook.deps.json
+/Users/pedrocamargo/Desktop/Fall23/CIS4930-EnterpriseSWE/dotnetLambda/EsepWebhook/src/EsepWebhook/bin/Release/net6.0/linux-x64/EsepWebhook.runtimeconfig.json
+/Users/pedrocamargo/Desktop/Fall23/CIS4930-EnterpriseSWE/dotnetLambda/EsepWebhook/src/EsepWebhook/bin/Release/net6.0/linux-x64/EsepWebhook.dll
+/Users/pedrocamargo/Desktop/Fall23/CIS4930-EnterpriseSWE/dotnetLambda/EsepWebhook/src/EsepWebhook/bin/Release/net6.0/linux-x64/EsepWebhook.pdb
+/Users/pedrocamargo/Desktop/Fall23/CIS4930-EnterpriseSWE/dotnetLambda/EsepWebhook/src/EsepWebhook/bin/Release/net6.0/linux-x64/Amazon.Lambda.Core.dll
+/Users/pedrocamargo/Desktop/Fall23/CIS4930-EnterpriseSWE/dotnetLambda/EsepWebhook/src/EsepWebhook/bin/Release/net6.0/linux-x64/Amazon.Lambda.Serialization.SystemTextJson.dll
+/Users/pedrocamargo/Desktop/Fall23/CIS4930-EnterpriseSWE/dotnetLambda/EsepWebhook/src/EsepWebhook/obj/Release/net6.0/linux-x64/EsepWebhook.csproj.AssemblyReference.cache
+/Users/pedrocamargo/Desktop/Fall23/CIS4930-EnterpriseSWE/dotnetLambda/EsepWebhook/src/EsepWebhook/obj/Release/net6.0/linux-x64/EsepWebhook.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pedrocamargo/Desktop/Fall23/CIS4930-EnterpriseSWE/dotnetLambda/EsepWebhook/src/EsepWebhook/obj/Release/net6.0/linux-x64/EsepWebhook.AssemblyInfoInputs.cache
+/Users/pedrocamargo/Desktop/Fall23/CIS4930-EnterpriseSWE/dotnetLambda/EsepWebhook/src/EsepWebhook/obj/Release/net6.0/linux-x64/EsepWebhook.AssemblyInfo.cs
+/Users/pedrocamargo/Desktop/Fall23/CIS4930-EnterpriseSWE/dotnetLambda/EsepWebhook/src/EsepWebhook/obj/Release/net6.0/linux-x64/EsepWebhook.csproj.CoreCompileInputs.cache
+/Users/pedrocamargo/Desktop/Fall23/CIS4930-EnterpriseSWE/dotnetLambda/EsepWebhook/src/EsepWebhook/obj/Release/net6.0/linux-x64/EsepWebhook.csproj.CopyComplete
+/Users/pedrocamargo/Desktop/Fall23/CIS4930-EnterpriseSWE/dotnetLambda/EsepWebhook/src/EsepWebhook/obj/Release/net6.0/linux-x64/EsepWebhook.dll
+/Users/pedrocamargo/Desktop/Fall23/CIS4930-EnterpriseSWE/dotnetLambda/EsepWebhook/src/EsepWebhook/obj/Release/net6.0/linux-x64/refint/EsepWebhook.dll
+/Users/pedrocamargo/Desktop/Fall23/CIS4930-EnterpriseSWE/dotnetLambda/EsepWebhook/src/EsepWebhook/obj/Release/net6.0/linux-x64/EsepWebhook.pdb
+/Users/pedrocamargo/Desktop/Fall23/CIS4930-EnterpriseSWE/dotnetLambda/EsepWebhook/src/EsepWebhook/obj/Release/net6.0/linux-x64/EsepWebhook.genruntimeconfig.cache
+/Users/pedrocamargo/Desktop/Fall23/CIS4930-EnterpriseSWE/dotnetLambda/EsepWebhook/src/EsepWebhook/obj/Release/net6.0/linux-x64/ref/EsepWebhook.dll
