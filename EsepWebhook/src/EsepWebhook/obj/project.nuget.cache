@@ -1,13 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "lfDHwee5GM0vFtZj1N4fMre3M7jEDdwyusJ1VqzPg/tgbbF/tDB39fc8weFRgAVAAR+M9RaPW4+sTueka0x8/g==",
+  "dgSpecHash": "ofKg9qUbAdy1Q09Deuf11vRRgYTuues9nZibaPf7BAlwpc5wm7Ynrfwwu4YS4qKd9WzJKvlGXdOcgR6mnDLFgQ==",
   "success": true,
-  "projectFilePath": "/Users/pedrocamargo/Desktop/Fall23/CIS4930-EnterpriseSWE/dotnetLambda/EsepWebhook/src/EsepWebhook/EsepWebhook.csproj",
+  "projectFilePath": "/Users/pedrocamargo/Desktop/Fall23/CIS4930-EnterpriseSWE/dotnetLambda2/esep-webhooks/EsepWebhook/src/EsepWebhook/EsepWebhook.csproj",
   "expectedPackageFiles": [
     "/Users/pedrocamargo/.nuget/packages/amazon.lambda.core/2.1.0/amazon.lambda.core.2.1.0.nupkg.sha512",
     "/Users/pedrocamargo/.nuget/packages/amazon.lambda.serialization.systemtextjson/2.3.1/amazon.lambda.serialization.systemtextjson.2.3.1.nupkg.sha512",
-    "/Users/pedrocamargo/.nuget/packages/microsoft.netcore.app.runtime.linux-x64/6.0.24/microsoft.netcore.app.runtime.linux-x64.6.0.24.nupkg.sha512",
-    "/Users/pedrocamargo/.nuget/packages/microsoft.aspnetcore.app.runtime.linux-x64/6.0.24/microsoft.aspnetcore.app.runtime.linux-x64.6.0.24.nupkg.sha512",
+    "/Users/pedrocamargo/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
     "/Users/pedrocamargo/.nuget/packages/microsoft.netcore.app.crossgen2.osx-arm64/6.0.24/microsoft.netcore.app.crossgen2.osx-arm64.6.0.24.nupkg.sha512"
   ],
   "logs": []
