@@ -7,4 +7,4 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = EsepWebhook
-build_property.ProjectDir = /Users/pedrocamargo/Desktop/Fall23/CIS4930-EnterpriseSWE/dotnetLambda/EsepWebhook/src/EsepWebhook/
+build_property.ProjectDir = /Users/pedrocamargo/Desktop/Fall23/CIS4930-EnterpriseSWE/dotnetLambda2/esep-webhooks/EsepWebhook/src/EsepWebhook/

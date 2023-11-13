@@ -1,0 +1,7 @@
+/Users/pedrocamargo/Desktop/Fall23/CIS4930-EnterpriseSWE/dotnetLambda2/esep-webhooks/EsepWebhook/src/EsepWebhook/bin/Release/net6.0/publish/EsepWebhook.deps.json
+/Users/pedrocamargo/Desktop/Fall23/CIS4930-EnterpriseSWE/dotnetLambda2/esep-webhooks/EsepWebhook/src/EsepWebhook/bin/Release/net6.0/publish/EsepWebhook.runtimeconfig.json
+/Users/pedrocamargo/Desktop/Fall23/CIS4930-EnterpriseSWE/dotnetLambda2/esep-webhooks/EsepWebhook/src/EsepWebhook/bin/Release/net6.0/publish/EsepWebhook.pdb
+/Users/pedrocamargo/Desktop/Fall23/CIS4930-EnterpriseSWE/dotnetLambda2/esep-webhooks/EsepWebhook/src/EsepWebhook/bin/Release/net6.0/publish/Amazon.Lambda.Core.dll
+/Users/pedrocamargo/Desktop/Fall23/CIS4930-EnterpriseSWE/dotnetLambda2/esep-webhooks/EsepWebhook/src/EsepWebhook/bin/Release/net6.0/publish/Amazon.Lambda.Serialization.SystemTextJson.dll
+/Users/pedrocamargo/Desktop/Fall23/CIS4930-EnterpriseSWE/dotnetLambda2/esep-webhooks/EsepWebhook/src/EsepWebhook/bin/Release/net6.0/publish/Newtonsoft.Json.dll
+/Users/pedrocamargo/Desktop/Fall23/CIS4930-EnterpriseSWE/dotnetLambda2/esep-webhooks/EsepWebhook/src/EsepWebhook/bin/Release/net6.0/publish/EsepWebhook.dll
